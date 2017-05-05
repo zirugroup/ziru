@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+## 林玉成
 ## Build Setup
 
 ``` bash
